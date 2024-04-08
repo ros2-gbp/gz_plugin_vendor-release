@@ -1,0 +1,12 @@
+ros-rolling-gz-plugin-vendor (0.0.2-1bookworm) bookworm; urgency=high
+
+  * Update vendored version to 2.0.3
+  * Fix sourcing of .dsv file
+  * Require calling find_package on the underlying package
+  * Fix linter (#1 <https://github.com/gazebo-release/gz_plugin_vendor/issues/1>)
+  * Initial import
+  * Contributors: Addisu Z. Taddese
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Mon, 08 Apr 2024 05:00:00 -0000
+
+
