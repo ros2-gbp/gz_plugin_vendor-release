@@ -10,9 +10,9 @@
     To avoid any confusion with the version of the vendor package, the major
     version here will always be 0.
   -->
-  <version>0.1.0</version>
+  <version>0.2.0</version>
   <description>
-    Vendor package for: gz-plugin2 2.0.3
+    Vendor package for: gz-plugin3 3.0.0
 
     Gazebo Plugin : Cross-platform C++ library for dynamically loading plugins.
   </description>
@@ -29,7 +29,7 @@
   <depend>gz_utils_vendor</depend>
 
   <!-- Depend on the package we are vendoring to allow building it from source -->
-  <depend condition="$GZ_BUILD_FROM_SOURCE != ''">gz-plugin2</depend>
+  <depend condition="$GZ_BUILD_FROM_SOURCE != ''">gz-plugin3</depend>
 
   <test_depend>ament_cmake_copyright</test_depend>
   <test_depend>ament_cmake_lint_cmake</test_depend>
