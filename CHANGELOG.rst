@@ -2,6 +2,11 @@
 Changelog for package gz_plugin_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.0 (2025-09-08)
+------------------
+* Jetty support: 4.0.0-pre1 (`#7 <https://github.com/gazebo-release/gz_plugin_vendor/issues/7>`_)
+* Contributors: Steve Peters
+
 0.2.2 (2025-05-23)
 ------------------
 * Bump version to 3.1.0 (`#6 <https://github.com/gazebo-release/gz_plugin_vendor/issues/6>`_)
