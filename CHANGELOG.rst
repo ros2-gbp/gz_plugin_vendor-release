@@ -2,6 +2,17 @@
 Changelog for package gz_plugin_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.1 (2025-10-01)
+------------------
+* Merge pull request `#10 <https://github.com/gazebo-release/gz_plugin_vendor/issues/10>`_ from gazebo-release/releasepy/rolling/4.0.0
+  Bump version to 4.0.0
+* Bump version to 4.0.0
+* Add dsv for PYTHONPATH for Jetty packages (`#9 <https://github.com/gazebo-release/gz_plugin_vendor/issues/9>`_)
+  * Set PYTHONPATH for unversioned packages
+  * Set PYTHONPATH from separate dsv file
+  ---------
+* Contributors: Addisu Z. Taddese, Jose Luis Rivero, Steve Peters
+
 0.3.0 (2025-09-08)
 ------------------
 * Jetty support: 4.0.0-pre1 (`#7 <https://github.com/gazebo-release/gz_plugin_vendor/issues/7>`_)
