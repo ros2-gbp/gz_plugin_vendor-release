@@ -2,6 +2,11 @@
 Changelog for package gz_plugin_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.4 (2026-08-31)
+------------------
+* Enable Python bindings (`#12 <https://github.com/gazebo-release/gz_plugin_vendor/issues/12>`_)
+* Contributors: Addisu Z. Taddese
+
 0.2.3 (2025-09-24)
 ------------------
 * Bump version to 3.1.0 (`#8 <https://github.com/gazebo-release/gz_plugin_vendor/issues/8>`_)
