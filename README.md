@@ -1,3 +1,26 @@
+## gz_plugin_vendor (rolling) - 0.4.2-1
+
+The packages in the `gz_plugin_vendor` repository were released into the `rolling` distro by running `/Users/addisuzt/ws/.venv/bin/bloom-release --rosdistro rolling gz_plugin_vendor -y` on `Wed, 07 Oct 2026 04:38:44 -0000`
+
+The `gz_plugin_vendor` package was released.
+
+Version of package(s) in repository `gz_plugin_vendor`:
+
+- upstream repository: https://github.com/gazebo-release/gz_plugin_vendor.git
+- release repository: https://github.com/ros2-gbp/gz_plugin_vendor-release.git
+- rosdistro version: `0.4.1-1`
+- old version: `0.4.1-1`
+- new version: `0.4.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## gz_plugin_vendor (kilted) - 0.2.5-1
 
 The packages in the `gz_plugin_vendor` repository were released into the `kilted` distro by running `/Users/addisuzt/ws/.venv/bin/bloom-release --rosdistro kilted gz_plugin_vendor -y` on `Fri, 04 Sep 2026 13:42:50 -0000`
