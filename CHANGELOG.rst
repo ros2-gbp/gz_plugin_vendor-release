@@ -2,6 +2,11 @@
 Changelog for package gz_plugin_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.2 (2026-10-06)
+------------------
+* Bump version to 5.0.0~pre2 (`#15 <https://github.com/gazebo-release/gz_plugin_vendor/issues/15>`_)
+* Contributors: Addisu Z. Taddese
+
 0.4.1 (2026-08-25)
 ------------------
 * Upgrade to Rotary prerelease (`#11 <https://github.com/gazebo-release/gz_plugin_vendor/issues/11>`_)
